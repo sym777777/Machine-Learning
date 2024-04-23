@@ -26,6 +26,7 @@
 
 * [前言](README.md)
 * [第一部分 数学基础](math/math.md)
+* https://blog.csdn.net/xiaopan233/article/details/86718372
 * [第一章 数学分析](math/analytic/introduction.md)
 * [常用函数](math/analytic/common-function.md)
 * [牛顿法](math/analytic/niudun.md)
